@@ -92,7 +92,7 @@
     92|| 28 | ![](https://github.com/vidyabhandary.png?size=40) | [Vidya Bhandary](https://github.com/vidyabhandary) | ⭐ 121 | 👥 70 | [Profile](https://github.com/vidyabhandary) | [README](https://github.com/vidyabhandary/vidyabhandary) |
     93|| 29 | ![](https://github.com/mopig.png?size=40) | [Leo](https://github.com/mopig) | ⭐ 120 | 👥 102 | [Profile](https://github.com/mopig) | [README](https://github.com/mopig/mopig) |
     94|| 30 | ![](https://github.com/sw-yx.png?size=40) | [Shawn Wang](https://github.com/sw-yx) | ⭐ 0 | 👥 51 | [Profile](https://github.com/sw-yx) | [README](https://github.com/sw-yx/sw-yx) |
-    95|| 31 | <img src="https://github.com/qu4k.png?size=40" width="40" height="40" style="border-radius:50%"> | [Filippo Rossi (qu4k)](https://github.com/qu4k) | ⭐ 0 | 👥 4 | [Profile](https://github.com/qu4k) | [README](https://github.com/qu4k/qu4k) |
+    95|| 31 | | [Filippo Rossi (qu4k)](https://github.com/qu4k) | ⭐ 0 | 👥 4 | [Profile](https://github.com/qu4k) | [README](https://github.com/qu4k/qu4k) |
     96|
     97|## Dynamic Realtime 💫
     98|
@@ -111,8 +111,8 @@
    111|| 11 | ![](https://github.com/andyruwruw.png?size=40) | [andyruwruw](https://github.com/andyruwruw) | ⭐ 533 | 👥 161 | [Profile](https://github.com/andyruwruw) | [README](https://github.com/andyruwruw/andyruwruw) |
    112|| 12 | ![](https://github.com/daniakash.png?size=40) | [Dani Akash](https://github.com/daniakash) | ⭐ 250 | 👥 221 | [Profile](https://github.com/daniakash) | [README](https://github.com/daniakash/daniakash) |
    113|| 13 | ![](https://github.com/rusty-sj.png?size=40) | [Rashmi Jadhav](https://github.com/rusty-sj) | ⭐ 94 | 👥 56 | [Profile](https://github.com/rusty-sj) | [README](https://github.com/rusty-sj/rusty-sj) |
-   114|| 14 | <img src="https://github.com/xcaq.png?size=40" width="40" height="40" style="border-radius:50%"> | [Kirill Feschenko](https://github.com/xcaq) | ⭐ 0 | 👥 1 | [Profile](https://github.com/xcaq) | [README](https://github.com/xcaq/xcaq) |
-   115|| 15 | <img src="https://github.com/8bithemant.png?size=40" width="40" height="40" style="border-radius:50%"> | [Hemant Joshi](https://github.com/8bithemant) | ⭐ 0 | 👥 4 | [Profile](https://github.com/8bithemant) | [README](https://github.com/8bithemant/8bithemant) |
+   114|| 14 | | [Kirill Feschenko](https://github.com/xcaq) | ⭐ 0 | 👥 1 | [Profile](https://github.com/xcaq) | [README](https://github.com/xcaq/xcaq) |
+   115|| 15 | | [Hemant Joshi](https://github.com/8bithemant) | ⭐ 0 | 👥 4 | [Profile](https://github.com/8bithemant) | [README](https://github.com/8bithemant/8bithemant) |
    116|| 16 | ![](https://github.com/C9-LinkRs.png?size=40) | [Johnny Villegas](https://github.com/C9-LinkRs) | ⭐ 0 | 👥 0 | [Profile](https://github.com/C9-LinkRs) | [README](https://github.com/C9-LinkRs/C9-LinkRs) |
    117|
    118|## Game Mode 🚀
@@ -177,7 +177,7 @@
    177|| 6 | ![](https://github.com/vidursatija.png?size=40) | [Vidur Satija](https://github.com/vidursatija) | ⭐ 209 | 👥 111 | [Profile](https://github.com/vidursatija) | [README](https://github.com/vidursatija/vidursatija) |
    178|| 7 | ![](https://github.com/sakshamtaneja21.png?size=40) | [Saksham Taneja](https://github.com/sakshamtaneja21) | ⭐ 111 | 👥 172 | [Profile](https://github.com/sakshamtaneja21) | [README](https://github.com/sakshamtaneja21/sakshamtaneja21) |
    179|| 8 | ![](https://github.com/Nanra.png?size=40) | [Nanra Sukedy](https://github.com/Nanra) | ⭐ 53 | 👥 55 | [Profile](https://github.com/Nanra) | [README](https://github.com/Nanra/Nanra) |
-   180|| 9 | <img src="https://github.com/you-create.png?size=40" width="40" height="40" style="border-radius:50%"> | [Nguyễn Hoàng Dương](https://github.com/you-create) | ⭐ 0 | 👥 1 | [Profile](https://github.com/you-create) | [README](https://github.com/you-create/you-create) |
+   180|| 9 | | [Nguyễn Hoàng Dương](https://github.com/you-create) | ⭐ 0 | 👥 1 | [Profile](https://github.com/you-create) | [README](https://github.com/you-create/you-create) |
    181|| 10 | ![](https://github.com/keshavsingh4522.png?size=40) | [Keshav Singh](https://github.com/keshavsingh4522) | ⭐ 0 | 👥 0 | [Profile](https://github.com/keshavsingh4522) | [README](https://github.com/keshavsingh4522/keshavsingh4522) |
    182|
    183|## Simple but Innovative Ones 🤗
@@ -205,7 +205,7 @@
    205|| 19 | ![](https://github.com/brunotacca.png?size=40) | [Bruno Tacca](https://github.com/brunotacca) | ⭐ 94 | 👥 52 | [Profile](https://github.com/brunotacca) | [README](https://github.com/brunotacca/brunotacca) |
    206|| 20 | ![](https://github.com/Terabyte17.png?size=40) | [Yash Sahijwani](https://github.com/Terabyte17) | ⭐ 84 | 👥 65 | [Profile](https://github.com/Terabyte17) | [README](https://github.com/Terabyte17/Terabyte17) |
    207|| 21 | ![](https://github.com/lucasvazq.png?size=40) | [Lucas Vazquez](https://github.com/lucasvazq) | ⭐ 83 | 👥 57 | [Profile](https://github.com/lucasvazq) | [README](https://github.com/lucasvazq/lucasvazq) |
-   208|| 22 | <img src="https://github.com/alx365.png?size=40" width="40" height="40" style="border-radius:50%"> | [alx365](https://github.com/alx365) | ⭐ 0 | 👥 1 | [Profile](https://github.com/alx365) | [README](https://github.com/alx365/alx365) |
+   208|| 22 | | [alx365](https://github.com/alx365) | ⭐ 0 | 👥 1 | [Profile](https://github.com/alx365) | [README](https://github.com/alx365/alx365) |
    209|| 23 | ![](https://github.com/C9-LinkRs.png?size=40) | [Johnny Villegas](https://github.com/C9-LinkRs) | ⭐ 0 | 👥 0 | [Profile](https://github.com/C9-LinkRs) | [README](https://github.com/C9-LinkRs/C9-LinkRs) |
    210|
    211|## Typing.. Mode 🎰
@@ -274,7 +274,7 @@
    274|| 1 | ![](https://github.com/innng.png?size=40) | [Ing](https://github.com/innng) | ⭐ 147 | 👥 316 | [Profile](https://github.com/innng) | [README](https://github.com/innng/innng) |
    275|| 2 | ![](https://github.com/Xx-Ashutosh-xX.png?size=40) | [Ashutosh](https://github.com/Xx-Ashutosh-xX) | ⭐ 86 | 👥 99 | [Profile](https://github.com/Xx-Ashutosh-xX) | [README](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX) |
    276|| 3 | ![](https://github.com/edisonlee55.png?size=40) | [edisonlee55](https://github.com/edisonlee55) | ⭐ 0 | 👥 0 | [Profile](https://github.com/edisonlee55) | [README](https://github.com/edisonlee55/edisonlee55) |
-   277|| 4 | <img src="https://github.com/PrincessAkira.png?size=40" width="40" height="40" style="border-radius:50%"> | [Yukii](https://github.com/PrincessAkira) | ⭐ 0 | 👥 2 | [Profile](https://github.com/PrincessAkira) | [README](https://github.com/PrincessAkira/PrincessAkira) |
+   277|| 4 | | [Yukii](https://github.com/PrincessAkira) | ⭐ 0 | 👥 2 | [Profile](https://github.com/PrincessAkira) | [README](https://github.com/PrincessAkira/PrincessAkira) |
    278|
    279|## Just Images 🎭
    280|
@@ -301,7 +301,7 @@
    301|| 8 | ![](https://github.com/xtenzQ.png?size=40) | [Nikita Rusetskii](https://github.com/xtenzQ) | ⭐ 206 | 👥 98 | [Profile](https://github.com/xtenzQ) | [README](https://github.com/xtenzQ/xtenzQ) |
    302|| 9 | ![](https://github.com/samujjwaal.png?size=40) | [Samujjwaal Dey](https://github.com/samujjwaal) | ⭐ 159 | 👥 29 | [Profile](https://github.com/samujjwaal) | [README](https://github.com/samujjwaal/samujjwaal) |
    303|| 10 | ![](https://github.com/alwinw.png?size=40) | [Alwin Wang](https://github.com/alwinw) | ⭐ 157 | 👥 84 | [Profile](https://github.com/alwinw) | [README](https://github.com/alwinw/alwinw) |
-   304|| 11 | <img src="https://github.com/char-al.png?size=40" width="40" height="40" style="border-radius:50%"> | [Char-Al](https://github.com/char-al) | ⭐ 85 | 👥 42 | [Profile](https://github.com/char-al) | [README](https://github.com/char-al/char-al) |
+   304|| 11 | | [Char-Al](https://github.com/char-al) | ⭐ 85 | 👥 42 | [Profile](https://github.com/char-al) | [README](https://github.com/char-al/char-al) |
    305|
    306|## Icons 🎯
    307|
@@ -312,7 +312,7 @@
    312|| 3 | ![](https://github.com/dereknguyen269.png?size=40) | [Derek Nguyen](https://github.com/dereknguyen269) | ⭐ 883 | 👥 143 | [Profile](https://github.com/dereknguyen269) | [README](https://github.com/dereknguyen269/dereknguyen269) |
    313|| 4 | ![](https://github.com/peterthehan.png?size=40) | [Peter Han](https://github.com/peterthehan) | ⭐ 634 | 👥 127 | [Profile](https://github.com/peterthehan) | [README](https://github.com/peterthehan/peterthehan) |
    314|| 5 | ![](https://github.com/hussainweb.png?size=40) | [Hussainweb](https://github.com/hussainweb) | ⭐ 227 | 👥 125 | [Profile](https://github.com/hussainweb) | [README](https://github.com/hussainweb/hussainweb) |
-   315|| 6 | <img src="https://github.com/vbriand.png?size=40" width="40" height="40" style="border-radius:50%"> | [Valentin Briand](https://github.com/vbriand) | ⭐ 86 | 👥 15 | [Profile](https://github.com/vbriand) | [README](https://github.com/vbriand/vbriand) |
+   315|| 6 | | [Valentin Briand](https://github.com/vbriand) | ⭐ 86 | 👥 15 | [Profile](https://github.com/vbriand) | [README](https://github.com/vbriand/vbriand) |
    316|
    317|## Fancy Fonts 🖋
    318|
